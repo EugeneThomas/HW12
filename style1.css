@@ -1,0 +1,59 @@
+.extreme {
+    text-align: center;
+    font-size: 200%;
+    line-height: 200%;
+}
+
+.navzone {
+  text-align: left;
+  color: black;
+  background-color: white;
+  float: left;
+  padding: 60px;
+}
+
+.content, .prose {
+  text-align: center;
+  color: black;
+  background-color: white;
+  float: right;
+  max-width: 550px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+body {
+  color: white;
+  background-color: black;
+  font: verdana;
+}
+
+h1 {
+  text-align: center;
+  font-size: 250%;
+}
+
+h2 {
+  font-size: 250%;
+}
+
+h3 {
+  font-size: 250%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li a{
+  margin: 5px;
+  font-size: 30px;
+  text-decortation: none;
+}
+
+a:hover {
+  background-color: black;
+  color: white;
+}
